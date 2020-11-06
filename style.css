@@ -1,0 +1,14 @@
+iframe{
+	width: 100%;
+}
+#content{
+	margin-top: 50px;
+}
+.contents-box{
+	margin: 0 auto;
+	max-width: 500px;
+	padding-top: 100px;
+}
+.audios{
+	width: 100%;
+}
